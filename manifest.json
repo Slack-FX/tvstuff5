@@ -1,0 +1,17 @@
+{
+  "id": "org.austv.abcnews",
+  "version": "1.0.0",
+  "name": "ABC News 24",
+  "description": "Watch ABC News 24 live via MJH IPTV",
+  "logo": "https://i.mjh.nz/.images/abc-news.png",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["tv"],
+  "idPrefixes": ["abcnews"],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "abcnews",
+      "name": "ABC News Live"
+    }
+  ]
+}

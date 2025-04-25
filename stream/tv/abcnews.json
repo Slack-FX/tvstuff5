@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "https://c.mjh.nz/abc-news.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "description": "ABC News 24 (National)",
+      "name": "HD"
+    }
+  ]
+}
